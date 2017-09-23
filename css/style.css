@@ -1,0 +1,23 @@
+/*template base*/
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+    margin: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    margin: 10px 0;
+}
+
+hr {
+    margin: 20px 0;
+}
+
+.green {
+    font-weight: 700;
+    color: green;
+}
